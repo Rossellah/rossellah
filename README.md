@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="leng.jpg" alt="Rossellah Marie Bodaño" width="150" style="border-radius:50%;"/>
+  <img src="https://your-photo-link.com/profile.jpg" alt="Rossellah Marie Bodaño" width="250" style="border-radius:50%;"/>
 </p>
 
 # 👋 About Me
