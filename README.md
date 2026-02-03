@@ -22,26 +22,31 @@ Feel free to reach out for **collaboration or opportunities**:
 
 # 🛠️ Tech Stack
 
-### Frontend
+<p align="center">
+  <b>Frontend</b>
+</p>
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="80" style="margin: 0 20px;"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="80" style="margin: 0 20px;"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="80" style="margin: 0 20px;"/> 
 </p>
 
-### Backend
+<p align="center">
+  <b>Backend</b>
+</p>
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="80" style="margin: 0 20px;"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="80" style="margin: 0 20px;"/> 
 </p>
 
-### Others
+<p align="center">
+  <b>Others</b>
+</p>
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="80" style="margin: 0 20px;"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="80" style="margin: 0 20px;"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="80" style="margin: 0 20px;"/> 
 </p>
-
 
 # 💻 Operating Systems
 
