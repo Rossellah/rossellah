@@ -23,32 +23,32 @@ Feel free to reach out for **collaboration or opportunities**:
 # 🛠️ Tech Stack
 
 <!-- Frontend Section -->
-<p align="center" style="font-size:28px; font-weight:bold; margin-bottom:10px;">
+<p align="center" style="font-size:36px; font-weight:bold; margin-bottom:20px;">
   Frontend
 </p>
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="80" style="margin: 0 40px;"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="80" style="margin: 0 40px;"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="80" style="margin: 0 40px;"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="100" style="margin: 0 80px;"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="100" style="margin: 0 80px;"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="100" style="margin: 0 80px;"/> 
 </p>
 
 <!-- Backend Section -->
-<p align="center" style="font-size:28px; font-weight:bold; margin-top:30px; margin-bottom:10px;">
+<p align="center" style="font-size:36px; font-weight:bold; margin-top:50px; margin-bottom:20px;">
   Backend
 </p>
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="80" style="margin: 0 40px;"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="80" style="margin: 0 40px;"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="100" style="margin: 0 80px;"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="100" style="margin: 0 80px;"/> 
 </p>
 
 <!-- Others Section -->
-<p align="center" style="font-size:28px; font-weight:bold; margin-top:30px; margin-bottom:10px;">
+<p align="center" style="font-size:36px; font-weight:bold; margin-top:50px; margin-bottom:20px;">
   Others
 </p>
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="80" style="margin: 0 40px;"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="80" style="margin: 0 40px;"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="80" style="margin: 0 40px;"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="100" style="margin: 0 80px;"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="100" style="margin: 0 80px;"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="100" style="margin: 0 80px;"/> 
 </p>
 
 # 💻 Operating Systems
