@@ -16,7 +16,7 @@ In my free time, I enjoy **experimenting with new technologies**, **enhancing my
 # 📫 Contact
 
 Feel free to reach out for **collaboration or opportunities**:  
-📧 rossellahb@example.com
+📧 rossellahbodano526@gmail.com / rmbodano@asist.edu.ph
 
 ---
 
