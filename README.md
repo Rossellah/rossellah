@@ -9,7 +9,7 @@ Hi! I'm **Rossellah Marie Bodaño**, a passionate developer dedicated to creatin
 🎓 Currently a **BSIT student at University of Abra**  
 🤖 Exploring **Machine Learning, Web Application Development**, and building cool projects  
 
-In my free time, I enjoy **experimenting with new technologies**, **enhancing my skills**, and **working on creative coding projects**.
+Outside of school and work, I enjoy tinkering with new tech, improving my skills, and working on coding projects that spark creativity.**.
 
 ---
 
