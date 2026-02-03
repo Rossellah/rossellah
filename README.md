@@ -22,30 +22,33 @@ Feel free to reach out for **collaboration or opportunities**:
 
 # 🛠️ Tech Stack
 
-<p align="center">
-  <b>Frontend</b>
+<!-- Frontend Section -->
+<p align="center" style="font-size:28px; font-weight:bold; margin-bottom:10px;">
+  Frontend
 </p>
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="80" style="margin: 0 20px;"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="80" style="margin: 0 20px;"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="80" style="margin: 0 20px;"/> 
-</p>
-
-<p align="center">
-  <b>Backend</b>
-</p>
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="80" style="margin: 0 20px;"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="80" style="margin: 0 20px;"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="80" style="margin: 0 40px;"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="80" style="margin: 0 40px;"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="80" style="margin: 0 40px;"/> 
 </p>
 
-<p align="center">
-  <b>Others</b>
+<!-- Backend Section -->
+<p align="center" style="font-size:28px; font-weight:bold; margin-top:30px; margin-bottom:10px;">
+  Backend
 </p>
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="80" style="margin: 0 20px;"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="80" style="margin: 0 20px;"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="80" style="margin: 0 20px;"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="80" style="margin: 0 40px;"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="80" style="margin: 0 40px;"/> 
+</p>
+
+<!-- Others Section -->
+<p align="center" style="font-size:28px; font-weight:bold; margin-top:30px; margin-bottom:10px;">
+  Others
+</p>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="80" style="margin: 0 40px;"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="80" style="margin: 0 40px;"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="80" style="margin: 0 40px;"/> 
 </p>
 
 # 💻 Operating Systems
