@@ -25,27 +25,27 @@ Feel free to reach out for **collaboration or opportunities**:
 <!-- Frontend Section -->
 <h2 align="center">Frontend</h2>
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="120" style="margin: 0 120px;"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="120" style="margin: 0 120px;"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="120" style="margin: 0 120px;"/> 
-  <img src="https://logo.svgcdn.com/devicon/tailwindcss-original.svg" width="120" style="margin: 0 120px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="120" style="margin: 0 180px;"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="120" style="margin: 0 180px;"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="120" style="margin: 0 180px;"/> 
+  <img src="https://logo.svgcdn.com/devicon/tailwindcss-original.svg" width="120" style="margin: 0 180px;"/>
 </p>
 
 <!-- Backend Section -->
 <h2 align="center">Backend</h2>
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="120" style="margin: 0 120px;"/> 
-  <img src="https://logo-teka.com/wp-content/uploads/2025/09/mysql-logo.svg" width="120" style="margin: 0 120px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="120" style="margin: 0 180px;"/> 
+  <img src="https://logo-teka.com/wp-content/uploads/2025/09/mysql-logo.svg" width="120" style="margin: 0 180px;"/>
 </p>
 
 <!-- Tools Section -->
 <h2 align="center">Tools</h2>
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="120" style="margin: 0 100px;"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="120" style="margin: 0 100px;"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="120" style="margin: 0 100px;"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="120" style="margin: 0 100px;"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="120" style="margin: 0 100px;"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="120" style="margin: 0 150px;"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="120" style="margin: 0 150px;"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="120" style="margin: 0 150px;"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="120" style="margin: 0 150px;"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="120" style="margin: 0 150px;"/> 
 </p>
 
 
