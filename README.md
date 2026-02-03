@@ -1,16 +1,12 @@
-## Hi there 👋
+👋 Hi, I'm Rossellah Marie Bodaño 
+🧑‍💻 Web developer focused on accessible and user-centered applications  
+⚙️ Interested in system design, UI/UX, and practical problem solving  
 
-<!--
-**Rossellah/rossellah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🛠️ Technical Skill
+- Frontend: HTML, CSS, JavaScript  
+- UI/UX: Wireframing, usability principles  
+- Backend: PHP, MySQL (basic)  
+- Tools: Git, GitHub, VS Code  
+- Web Systems: CRUD applications, form validation  
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📚 Always learning and improving my craft
