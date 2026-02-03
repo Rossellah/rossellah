@@ -40,5 +40,3 @@ Feel free to reach out for **collaboration or opportunities**:
 # 💻 Operating Systems
 
 - Windows 10/11  
-- Linux (Ubuntu)  
-- MacOS (basic)
